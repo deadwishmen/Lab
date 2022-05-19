@@ -1,0 +1,5 @@
+Do thi lien thong 
+Cay khung nho nhat cua do thi la 
+(2,3)(0,2)(4,5)(7,8)(6,8)(0,1)(4,6)(3,8)
+Tong gia tri cua cay khung la %d
+146
